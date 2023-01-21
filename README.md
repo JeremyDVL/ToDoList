@@ -2,7 +2,7 @@
 Multi-purpose to do list to add and delete items
 
 <p align="center">
-  <img width="400" height="500" src="Form-img.jpg"
+  <img width="450" height="500" src="Form-img.jpg"
 </p>
 
 ## <ins>What it does
